@@ -44,6 +44,7 @@ footer {
   font-family: "Indie Flower", cursive;
   font-size: 2.5rem;
   text-align: center;
+  padding: auto;
   letter-spacing: 0.2rem;
   color: #4ecca3;
 }
