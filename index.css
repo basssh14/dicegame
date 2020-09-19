@@ -1,0 +1,49 @@
+body {
+  text-align: center;
+  background-color: #393e46;
+}
+h1 {
+  font-size: 8rem;
+  font-family: "Lobster", cursive;
+  color: #4ecca3;
+  margin: 1.9rem auto;
+  text-shadow: 5px 0 #232931;
+}
+
+p {
+  color: #4ecca3;
+  font-family: "Indie Flower", cursive;
+  font-size: 2rem;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #eeeeee;
+  text-align: center;
+  font-family: "Indie Flower", cursive;
+}
+/* -------------Clasess-----------*/
+
+.container {
+  width: 70%;
+  margin: 0 auto;
+}
+.dice {
+  display: inline-block;
+  margin: 0;
+}
+.btn {
+  margin: 4rem 0 0 0;
+  width: 20%;
+  background-color: transparent;
+  border: 5px #4ecca3 solid;
+  font-family: "Indie Flower", cursive;
+  font-size: 2.5rem;
+  text-align: center;
+  letter-spacing: 0.2rem;
+  color: #4ecca3;
+}
